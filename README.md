@@ -25,7 +25,7 @@ Crie um arquivo .env na raiz do projeto e defina a variável GROQ_API_KEY com su
 ### Passo 3: Executar o código
 Este é o código completo para realizar a tradução de uma frase usando o modelo Groq e LangChain:
 
-´# IMPORTAÇÃO DAS BIBLIOTECAS
+# IMPORTAÇÃO DAS BIBLIOTECAS
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_groq import ChatGroq
