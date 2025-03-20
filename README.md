@@ -14,8 +14,8 @@ Este projeto utiliza o modelo **Gemma2-9b-it** da **Groq** para realizar traduç
 
 Antes de rodar o código, você precisa instalar as dependências. Para isso, crie um ambiente virtual e instale as bibliotecas necessárias com o comando:
 
-```bash
-pip install -r requirements.txt
+
+`pip install -r requirements.txt´
 
 ### Passo 2: Definir as variáveis de ambiente
 Crie um arquivo .env na raiz do projeto e defina a variável GROQ_API_KEY com sua chave de API da Groq
